@@ -11,9 +11,9 @@ The module tells a short story, starring two burglars in a quick adventure for s
 
 
 <b>Features:</b>
-- Complex NPC conversation reliant on variables (state management), items, waypots, etctera.
+- Complex NPC conversation reliant on variables (state management), items, waypoints, etctera.
 - Intricate NPC animations to enhance storytelling and immersion
-- Manipulation of player's assets, inventory, body part structure, equipped items, etctera.
+- Manipulation of the player's assets, inventory, body part structure, equipped items, etctera.
 - Interactive ambient and/or placeables
 - Immersive area transition
 - Dynamic puzzle solving
