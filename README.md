@@ -5,7 +5,19 @@
 
 
 <h2>About:</h2>
-Custom Neverwinter Nighs: EE module made entirely by me, portraying the story of two burglars in a quick adventure for stolen treasure.
+Self imposed challenge project to test out all my knowledge about the Aurora Toolset for Neverwinter Nights: EE made entirely by myself.
+
+The module tells a short story, starring two burglars in a quick adventure for stolen treasure in a peculiar house.
+
+
+<b>Features:</b>
+- Complex NPC conversation reliant on variables (state management), items, waypots, etctera.
+- Intricate NPC animations to enhance storytelling and immersion
+- Manipulation of player's assets, inventory, body part structure, equipped items, etctera.
+- Interactive ambient and/or placeables
+- Immersive area transition
+- Dynamic puzzle solving
+- Short combat encounters
 
 <h2>Development:</h2>
 
