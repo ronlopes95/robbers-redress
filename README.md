@@ -23,7 +23,7 @@ The module tells a short story, starring two burglars in a quick adventure for s
 
 The project was made with:
 
-<image src = "https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+<image src = "https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> <image src = "https://img.shields.io/badge/Aurora%20Toolset-%2300599Aurora%20Toolset.svg?style=for-the-badge&logo=C&logoColor=white">
 
   <h3>Contact:</h3>
 
